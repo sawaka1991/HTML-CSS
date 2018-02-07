@@ -97,6 +97,7 @@ main {
 .blog-image {
 	float: left;
 	height: 180px;
+	width: 270px;
 }
 .blog-text-headline {
 	padding-bottom: 15px;
